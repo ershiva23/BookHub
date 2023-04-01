@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favourite_fragment">Favourite Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_ap">About App</string>
+    <string name="list_item">List Item</string>
+    <string name="check_internet">CHECK INTERNET</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="action_sort">Sort</string>
+    <string name="shivanshu_tiwari">Shivanshu Tiwari</string>
+    <string name="short_para">Books Play a quintessential role in every student’s life by introducing them to a world of imagination, providing knowledge of the outside world, improving their reading, writing and speaking skills as well as boosting memory and intelligence. The importance of books in our life cannot be undermined for they not only help in broadening our horizons but also act as doorways to connecting us with the world around us. They function as survival kits, they influence us and leave an impact on us. Want to know the benefits of books and the importance of reading? Curious about how books impact our lives?This app is designed for the book lovers who loves to explore things.So enjoy the app.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
