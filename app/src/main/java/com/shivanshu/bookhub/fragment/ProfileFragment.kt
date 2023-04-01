@@ -39,6 +39,7 @@ class ProfileFragment : Fragment() {
     }
 
     companion object {
+        //This is my companion class
         /**
          * Use this factory method to create a new instance of
          * this fragment using the provided parameters.

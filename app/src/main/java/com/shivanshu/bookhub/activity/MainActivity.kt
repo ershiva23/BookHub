@@ -19,7 +19,6 @@ import com.shivanshu.bookhub.fragment.ProfileFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 
-
 class MainActivity : AppCompatActivity() {
 
     lateinit var coordinatorLayout: CoordinatorLayout
